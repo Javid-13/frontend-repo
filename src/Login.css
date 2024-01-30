@@ -1,0 +1,16 @@
+.login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url("C:\Users\javid\OneDrive\Desktop\new.jpg");
+    background-size: cover;
+    color:white;
+    
+}
+
+.login form {
+    width: 300px;
+    margin-top: 20px; 
+}
